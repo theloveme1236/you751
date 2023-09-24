@@ -910,6 +910,9 @@ def instagram_follow_erro():
 
     if current_url == 'https://www.like4like.org/user/bonus-page.php' or  current_url == 'https://www.like4like.org/user/bonus-page.php/':
         print('erro_https://www.like4like.org/user/bonus-page.php')
+        print('erro_https://www.like4like.org/user/bonus-page.php')
+        print('erro_https://www.like4like.org/user/bonus-page.php')
+        print('erro_https://www.like4like.org/user/bonus-page.php')
         ##result > div > a:nth-child(8)
         ##result > div > a:nth-child(6)
         
@@ -921,7 +924,7 @@ def instagram_follow_erro():
                 break
             except:
                 print('errobonus-page.php')
-        input('erro_https://www.like4like.org/user/bonus-page.php')
+        #input('erro_https://www.like4like.org/user/bonus-page.php')
 def instagram_follow():
     global driver
     my_list_like = []
